@@ -5,4 +5,4 @@
 
 */
 -- AlterTable
-ALTER TABLE `payment` ADD COLUMN `is_active` BOOLEAN NOT NULL;
+ALTER TABLE `Payment` ADD COLUMN `is_active` BOOLEAN NOT NULL;
